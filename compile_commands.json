@@ -1,0 +1,1814 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/lem_in.o",
+      "srcs/lem_in.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/lem_in.c",
+    "output": "/home/alex/doc/Lem_in/out/lem_in.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/read.o",
+      "srcs/read.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/read.c",
+    "output": "/home/alex/doc/Lem_in/out/read.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/tools.o",
+      "srcs/tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/tools.c",
+    "output": "/home/alex/doc/Lem_in/out/tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/tools_2.o",
+      "srcs/tools_2.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/tools_2.c",
+    "output": "/home/alex/doc/Lem_in/out/tools_2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/sort.o",
+      "srcs/sort.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/sort.c",
+    "output": "/home/alex/doc/Lem_in/out/sort.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/matrice.o",
+      "srcs/matrice.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/matrice.c",
+    "output": "/home/alex/doc/Lem_in/out/matrice.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/ant.o",
+      "srcs/ant.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/ant.c",
+    "output": "/home/alex/doc/Lem_in/out/ant.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/bfs.o",
+      "srcs/bfs.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/bfs.c",
+    "output": "/home/alex/doc/Lem_in/out/bfs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/command.o",
+      "srcs/command.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/command.c",
+    "output": "/home/alex/doc/Lem_in/out/command.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/edmond_karp.o",
+      "srcs/edmond_karp.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/edmond_karp.c",
+    "output": "/home/alex/doc/Lem_in/out/edmond_karp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/link.o",
+      "srcs/link.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/link.c",
+    "output": "/home/alex/doc/Lem_in/out/link.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/room.o",
+      "srcs/room.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/room.c",
+    "output": "/home/alex/doc/Lem_in/out/room.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/print_ants.o",
+      "srcs/print_ants.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/print_ants.c",
+    "output": "/home/alex/doc/Lem_in/out/print_ants.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/path.o",
+      "srcs/path.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/path.c",
+    "output": "/home/alex/doc/Lem_in/out/path.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/path_2.o",
+      "srcs/path_2.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/path_2.c",
+    "output": "/home/alex/doc/Lem_in/out/path_2.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/clean.o",
+      "srcs/clean.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/clean.c",
+    "output": "/home/alex/doc/Lem_in/out/clean.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/split_ants.o",
+      "srcs/split_ants.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/split_ants.c",
+    "output": "/home/alex/doc/Lem_in/out/split_ants.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/collision.o",
+      "srcs/collision.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/collision.c",
+    "output": "/home/alex/doc/Lem_in/out/collision.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/validate_parsing.o",
+      "srcs/validate_parsing.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/validate_parsing.c",
+    "output": "/home/alex/doc/Lem_in/out/validate_parsing.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-fsanitize=address",
+      "-fno-omit-frame-pointer",
+      "-I",
+      "includes",
+      "-I",
+      "libft/includes",
+      "-c",
+      "-o",
+      "out/option.o",
+      "srcs/option.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in",
+    "file": "/home/alex/doc/Lem_in/srcs/option.c",
+    "output": "/home/alex/doc/Lem_in/out/option.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strlen.o",
+      "srcs/string/ft_strlen.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strlen.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_occurence_of.o",
+      "srcs/string/ft_occurence_of.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_occurence_of.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_occurence_of.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strdup.o",
+      "srcs/string/ft_strdup.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strdup.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strdup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strcpy.o",
+      "srcs/string/ft_strcpy.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strcpy.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strncpy.o",
+      "srcs/string/ft_strncpy.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strncpy.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strncpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strcat.o",
+      "srcs/string/ft_strcat.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strcat.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strncat.o",
+      "srcs/string/ft_strncat.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strncat.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strncat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strlcat.o",
+      "srcs/string/ft_strlcat.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strlcat.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strlcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strchr.o",
+      "srcs/string/ft_strchr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strchr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strrchr.o",
+      "srcs/string/ft_strrchr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strrchr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strrchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strstr.o",
+      "srcs/string/ft_strstr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strstr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strnstr.o",
+      "srcs/string/ft_strnstr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strnstr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strnstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strcmp.o",
+      "srcs/string/ft_strcmp.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strcmp.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strncmp.o",
+      "srcs/string/ft_strncmp.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strncmp.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strnew.o",
+      "srcs/string/ft_strnew.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strnew.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strnew.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strdel.o",
+      "srcs/string/ft_strdel.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strdel.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strdel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strclr.o",
+      "srcs/string/ft_strclr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strclr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strclr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_striter.o",
+      "srcs/string/ft_striter.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_striter.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_striter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_striteri.o",
+      "srcs/string/ft_striteri.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_striteri.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_striteri.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strmap.o",
+      "srcs/string/ft_strmap.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strmap.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strmap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strmapi.o",
+      "srcs/string/ft_strmapi.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strmapi.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strmapi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strequ.o",
+      "srcs/string/ft_strequ.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strequ.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strequ.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strnequ.o",
+      "srcs/string/ft_strnequ.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strnequ.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strnequ.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strsub.o",
+      "srcs/string/ft_strsub.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strsub.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strsub.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strjoin.o",
+      "srcs/string/ft_strjoin.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strjoin.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strjoin.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strjoinfree.o",
+      "srcs/string/ft_strjoinfree.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strjoinfree.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strjoinfree.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strtrim.o",
+      "srcs/string/ft_strtrim.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strtrim.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strtrim.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_strsplit.o",
+      "srcs/string/ft_strsplit.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_strsplit.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_strsplit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_itoa.o",
+      "srcs/string/ft_itoa.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_itoa.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_itoa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putchar.o",
+      "srcs/string/ft_putchar.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putchar.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putchar.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putstr.o",
+      "srcs/string/ft_putstr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putstr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putendl.o",
+      "srcs/string/ft_putendl.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putendl.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putendl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putnbr.o",
+      "srcs/string/ft_putnbr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putnbr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putnbr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putchar_fd.o",
+      "srcs/string/ft_putchar_fd.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putchar_fd.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putchar_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putstr_fd.o",
+      "srcs/string/ft_putstr_fd.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putstr_fd.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putstr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putendl_fd.o",
+      "srcs/string/ft_putendl_fd.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putendl_fd.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putendl_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_putnbr_fd.o",
+      "srcs/string/ft_putnbr_fd.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_putnbr_fd.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_putnbr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_toupper.o",
+      "srcs/string/ft_toupper.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_toupper.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_toupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_tolower.o",
+      "srcs/string/ft_tolower.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/string/ft_tolower.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_tolower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_atoi.o",
+      "srcs/number/ft_atoi.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/number/ft_atoi.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_atoi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_atol.o",
+      "srcs/number/ft_atol.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/number/ft_atol.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_atol.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_bzero.o",
+      "srcs/mem/ft_bzero.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_bzero.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_bzero.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_free_arr.o",
+      "srcs/mem/ft_free_arr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_free_arr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_free_arr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memset.o",
+      "srcs/mem/ft_memset.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memset.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memcpy.o",
+      "srcs/mem/ft_memcpy.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memcpy.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memccpy.o",
+      "srcs/mem/ft_memccpy.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memccpy.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memccpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memmove.o",
+      "srcs/mem/ft_memmove.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memmove.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memmove.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memchr.o",
+      "srcs/mem/ft_memchr.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memchr.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memcmp.o",
+      "srcs/mem/ft_memcmp.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memcmp.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memalloc.o",
+      "srcs/mem/ft_memalloc.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memalloc.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memalloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_memdel.o",
+      "srcs/mem/ft_memdel.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/mem/ft_memdel.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_memdel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_islower.o",
+      "srcs/is/ft_islower.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_islower.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_islower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isupper.o",
+      "srcs/is/ft_isupper.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isupper.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isalpha.o",
+      "srcs/is/ft_isalpha.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isalpha.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isalpha.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isdigit.o",
+      "srcs/is/ft_isdigit.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isdigit.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isdigit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isalnum.o",
+      "srcs/is/ft_isalnum.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isalnum.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isalnum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isascii.o",
+      "srcs/is/ft_isascii.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isascii.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isascii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_isprint.o",
+      "srcs/is/ft_isprint.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/is/ft_isprint.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_isprint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstnew.o",
+      "srcs/lst/ft_lstnew.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstnew.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstnew.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstdelone.o",
+      "srcs/lst/ft_lstdelone.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstdelone.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstdelone.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstdel.o",
+      "srcs/lst/ft_lstdel.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstdel.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstdel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstadd.o",
+      "srcs/lst/ft_lstadd.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstadd.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstadd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstiter.o",
+      "srcs/lst/ft_lstiter.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstiter.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstiter.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_lstmap.o",
+      "srcs/lst/ft_lstmap.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_lstmap.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_lstmap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_2lstnew.o",
+      "srcs/lst/ft_2lstnew.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_2lstnew.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_2lstnew.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_2lstaddstrt.o",
+      "srcs/lst/ft_2lstaddstrt.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_2lstaddstrt.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_2lstaddstrt.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_2lstaddend.o",
+      "srcs/lst/ft_2lstaddend.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_2lstaddend.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_2lstaddend.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_2lstdelone.o",
+      "srcs/lst/ft_2lstdelone.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/lst/ft_2lstdelone.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_2lstdelone.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/get_next_line.o",
+      "srcs/get_next_line/get_next_line.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/get_next_line/get_next_line.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/get_next_line.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ft_printf.o",
+      "srcs/printf/ft_printf.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/ft_printf.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ft_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/pwidth.o",
+      "srcs/printf/pwidth.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/pwidth.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/pwidth.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/pflags.o",
+      "srcs/printf/pflags.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/pflags.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/pflags.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/plenmodifier.o",
+      "srcs/printf/plenmodifier.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/plenmodifier.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/plenmodifier.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/pprecision.o",
+      "srcs/printf/pprecision.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/pprecision.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/pprecision.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/func_selector.o",
+      "srcs/printf/func_selector.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/func_selector.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/func_selector.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/global_tools.o",
+      "srcs/printf/global_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/global_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/global_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/int.o",
+      "srcs/printf/int.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/int.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/int.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/int_tools.o",
+      "srcs/printf/int_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/int_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/int_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/unsigned.o",
+      "srcs/printf/unsigned.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/unsigned.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/unsigned.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/unsigned_tools.o",
+      "srcs/printf/unsigned_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/unsigned_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/unsigned_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/octal.o",
+      "srcs/printf/octal.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/octal.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/octal.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/octal_tools.o",
+      "srcs/printf/octal_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/octal_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/octal_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/percent.o",
+      "srcs/printf/percent.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/percent.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/percent.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/char.o",
+      "srcs/printf/char.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/char.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/char.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/hexa.o",
+      "srcs/printf/hexa.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/hexa.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/hexa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/hexa_tools.o",
+      "srcs/printf/hexa_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/hexa_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/hexa_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/hexa_upper.o",
+      "srcs/printf/hexa_upper.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/hexa_upper.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/hexa_upper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/string.o",
+      "srcs/printf/string.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/string.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/string.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/float.o",
+      "srcs/printf/float.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/float.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/float.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/float_tools.o",
+      "srcs/printf/float_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/float_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/float_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/double.o",
+      "srcs/printf/double.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/double.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/double.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/double_tools.o",
+      "srcs/printf/double_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/double_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/double_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ldouble.o",
+      "srcs/printf/ldouble.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/ldouble.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ldouble.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/ldouble_tools.o",
+      "srcs/printf/ldouble_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/ldouble_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/ldouble_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/address_tools.o",
+      "srcs/printf/address_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/address_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/address_tools.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/address.o",
+      "srcs/printf/address.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/address.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/address.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/special.o",
+      "srcs/printf/special.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/special.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/special.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I",
+      "includes",
+      "-c",
+      "-o",
+      "out/special_tools.o",
+      "srcs/printf/special_tools.c"
+    ],
+    "directory": "/home/alex/doc/Lem_in/libft",
+    "file": "/home/alex/doc/Lem_in/libft/srcs/printf/special_tools.c",
+    "output": "/home/alex/doc/Lem_in/libft/out/special_tools.o"
+  }
+]

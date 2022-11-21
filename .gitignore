@@ -1,0 +1,5 @@
+libft/libft.a
+.cache/
+lem-in
+libft/out/
+out/
